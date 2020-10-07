@@ -1,0 +1,39 @@
+{
+  "person" : [
+    {
+      "id" : 1,
+      "firstName": "Мирослав",
+      "lastName": "Путилов"
+    },
+    {
+      "id" : 2,
+      "firstName": "Никодим",
+      "lastName": "Паулкин"
+    },
+    {
+      "id" : 3,
+      "firstName": "Август",
+      "lastName": "Кутузов"
+    },
+    {
+      "id" : 4,
+      "firstName": "Эдвард",
+      "lastName": "Степанков"
+    },
+    {
+      "id" : 5,
+      "firstName": "Аркадий",
+      "lastName": "Ермушин "
+    },
+    {
+      "id" : 6,
+      "firstName": "Динасий",
+      "lastName": "Петров"
+    },
+    {
+      "id" : 7,
+      "firstName": "Таис",
+      "lastName": "Капустин"
+    }
+  ]
+}
